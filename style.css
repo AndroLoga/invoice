@@ -92,7 +92,7 @@ header h1 {
 }
 
 header address {
-    float: right;
+    float: left;
     font-size: 65%;
     font-style: normal;
     line-height: 1.25;
@@ -110,7 +110,7 @@ header span{
 
 header img {
     display: block;
-    float: left;
+    float: right;
     margin: 0 0 1em 5em;
     max-height: 25%;
     max-width: 60%;
