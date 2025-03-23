@@ -164,6 +164,7 @@ table.balance:after {
 table.meta th {
     width: 40%;
     height: 300%;
+    font-weight: bold;
 }
 
 table.meta td {
