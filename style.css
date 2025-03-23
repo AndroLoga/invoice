@@ -148,14 +148,14 @@ article h1 {
 
 article address {
     float: left;
-    font-size: 125%;
+    font-size: 25%;
     font-weight: bold;
 }
 
 /* table meta & balance */
 table.meta,
 table.balance {
-    float: left;
+    float: right;
     width: 36%;
 }
 
