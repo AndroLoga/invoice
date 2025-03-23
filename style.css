@@ -140,13 +140,16 @@ article:after {
     clear: both;
 }
 
-
+table.meta {
+    float: left;
+    width: 36%;
+}
 
 
 /* table meta & balance */
-table.meta,
+
 table.balance {
-    float: left;
+    float: right;
     width: 36%;
 }
 
