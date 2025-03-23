@@ -159,11 +159,13 @@ table.balance:after {
 
 /* table meta */
 table.meta th {
-    width: 100%;
+    width: 40%;
+    height: 100%;
 }
 
 table.meta td {
-    width: 100%;
+    width: 60%;
+    height: 100%;
 }
 
 /* table items */
