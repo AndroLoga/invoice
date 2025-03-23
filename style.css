@@ -173,6 +173,7 @@ table.balance:after {
 
 table.balance th {
     font-weight: bold;
+    text-align: right;
 }
 /* table meta */
 table.meta th {
