@@ -160,6 +160,9 @@ table.balance:after {
     clear: both;
 }
 
+table.balance th {
+    font-weight: bold;
+}
 /* table meta */
 table.meta th {
     width: 40%;
