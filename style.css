@@ -146,7 +146,7 @@ article:after {
 /* table meta & balance */
 table.meta,
 table.balance {
-    float: right;
+    float: left;
     width: 36%;
 }
 
@@ -159,11 +159,11 @@ table.balance:after {
 
 /* table meta */
 table.meta th {
-    width: 40%;
+    width: 100%;
 }
 
 table.meta td {
-    width: 60%;
+    width: 100%;
 }
 
 /* table items */
