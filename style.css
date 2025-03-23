@@ -143,12 +143,6 @@ article:after {
 table.meta {
     float: left;
     width: 36%;
-font-size: 75%; table-layout: fixed; width: 100%; 
-border-collapse: separate; border-spacing: 2px; 
-th, td { border-width: 1px; padding: 0.5em; position: relative; text-align: left; }
-th, td { border-radius: 0.25em; border-style: solid; }
-th { background: #EEE; border-color: #BBB; }
-td { border-color: #DDD; }
 }
 
 
@@ -174,11 +168,13 @@ table.meta th {
     width: 40%;
     height: 300%;
     font-weight: bold;
+    border-width: 1px; padding: 0.5em; position: relative; text-align: left;
 }
 
 table.meta td {
     width: 40%;
     height: 300%;
+    border-radius: 0.25em; border-style: solid;
 }
 
 /* table items */
