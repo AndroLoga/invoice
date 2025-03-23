@@ -93,9 +93,8 @@ header h1 {
 
 header address {
     float: left;
-    font-size: 75%;
+    font-size: 55%;
     font-style: normal;
-    font-weight: bold;
     line-height: 1.25;
     margin: 0 1em 1em 0;
 }
