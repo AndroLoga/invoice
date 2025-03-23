@@ -141,16 +141,7 @@ article:after {
     clear: both;
 }
 
-article h1 {
-    clip: rect(0 0 0 0);
-    position: absolute;
-}
 
-article address {
-    float: left;
-    font-size: 25%;
-    font-weight: bold;
-}
 
 /* table meta & balance */
 table.meta,
