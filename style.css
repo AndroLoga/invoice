@@ -126,6 +126,20 @@ header input {
     width: 100%;
 }
 
+/* article */
+article,
+article address,
+table.meta,
+table.inventory {
+    margin: 0 0 3em;
+    clear: both;
+}
+
+article:after {
+    content: "";
+    display: table;
+    clear: both;
+}
 
 
 
